@@ -1382,6 +1382,7 @@ input::-moz-focus-inner {
     margin: 0;
     background: #ffffff1f;
     width: 100%;
+	color: white;
 }
 
 .mc-form label {
