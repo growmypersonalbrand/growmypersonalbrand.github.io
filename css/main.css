@@ -1364,8 +1364,12 @@ input::-moz-focus-inner {
 	width: 50%;
 }
 
+.mc-form input[type=text], .mc-form input[type=email] {
+	color: #ec008c;
+}
+
 .mc-form input[type=submit] {
-  color: #FFFFFF;
+  color: white;
   background: #ec008c;
   border-color: #ec008c;
   padding: 0 25px;
@@ -1382,7 +1386,7 @@ input::-moz-focus-inner {
     margin: 0;
     background: #ffffff1f;
     width: 100%;
-	color: white;
+	color: #ec008c;
 }
 
 .mc-form label {
