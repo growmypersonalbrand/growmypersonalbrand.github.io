@@ -1334,23 +1334,23 @@ input::-moz-focus-inner {
 }
 
 .mc-form input::-webkit-input-placeholder, .mc-form textarea::-webkit-input-placeholder {
-  color: white;
+  color: #ec008c;
 }
 
 .mc-form input:-moz-placeholder, .mc-form textarea:-moz-placeholder {
-  color: white;
+  color: #ec008c;
 }
 
 .mc-form input::-moz-placeholder, .mc-form textarea::-moz-placeholder {
-  color: white;
+  color: #ec008c;
 }
 
 .mc-form input:-ms-input-placeholder, .mc-form input:-ms-textarea-placeholder {
-  color: white;
+  color: #ec008c;
 }
 
 .mc-form input.placeholder, .mc-form textarea.placeholder {
-  color: white !important;
+  color: #ec008c !important;
 }
 
 .mc-form .signup-fields {
